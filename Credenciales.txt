@@ -1,0 +1,7 @@
+Credenciales para ingresar a máquinas SPVM
+
+maquina	direccion	user	passwd
+spvm01	spvm01.inf.santiago.usm.cl	dockeruser	KP#/Fr-;{Lt9S2p<
+spvm02	spvm02.inf.santiago.usm.cl	dockeruser	eNj7Vs~]$rg<C=un
+spvm03	spvm03.inf.santiago.usm.cl	dockeruser	eY.wT%K3bHp2:C5{
+
